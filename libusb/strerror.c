@@ -105,7 +105,7 @@ static const char* usbi_localized_errors[ARRAYSIZE(usbi_locale_supported)][LIBUS
 		"Opération non supportée or non implémentée sur cette plateforme",
 		"Autre erreur",
 	}, { /* Russian (ru) */
-		"Успех",
+    "Ресурс занят",
 		"Ошибка ввода/вывода",
 		"Неверный параметр",
 		"Доступ запрещён (не хватает прав)",
